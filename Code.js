@@ -1,5 +1,6 @@
 
+var Random = "random"
+var Base = 10
 
-def Random {
-  print("HEllo")
-}
+return(Random + Base)
+
