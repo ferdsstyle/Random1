@@ -1,6 +1,7 @@
+x = "random"
 
-var Random = "random"
-var Base = 10
+for (i = 0; i < 3; i++) {
+  prompt (x)
+}
 
-return(Random + Base)
 
